@@ -1,0 +1,120 @@
+/*
+    resolutions:
+
+    < 640       portable
+    640-1280    medium displays
+    1280 >      desktop
+
+*/
+
+$titleFont: 'Fredoka One', sans-serif;
+$contentFont: 'Roboto', sans-serif;
+$orange:#ff8800;
+$blue:#335a9d;
+
+@mixin slide-shadow($o){
+    -webkit-box-shadow: 0px 4px 36px 16px rgba(0,0,0,$o);
+    -moz-box-shadow: 0px 4px 36px 16px rgba(0,0,0,$o);
+    box-shadow: 0px 4px 36px 16px rgba(0,0,0,$o);
+}
+
+html    {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizelegibility;
+
+    font-family: $contentFont;
+}
+
+    //  HEADER
+
+.hero   {
+    width:100%;
+    height:700px;
+    background:url('../img/matt-smith-rock3.jpg') transparent no-repeat top left;
+}
+
+@keyframes toptext-slide-in {
+    from    {   transform: translateX(100%);  }
+    to  {   transform: translateX(0%); }
+}
+
+@keyframes toptext-shadow-in    {
+    from    {   @include slide-shadow(0);  }
+    to  {   @include slide-shadow(.4); }
+}
+
+#toptext  {
+    width: 100%;
+    height: 105px;
+
+    @include slide-shadow(.4);
+    animation:toptext-shadow-in 2s ease-in;
+    
+    #alpha{ fill: darken(white, 10%);   }
+    #title{
+        font-family:$titleFont;
+        font-size:6em;
+        font-weight:normal;
+
+        animation:toptext-slide-in 1s ease-out;
+    }
+    #subtitle{
+        font-family:$contentFont;
+        letter-spacing:7px;
+        font-size:1.5em;
+        font-weight:bold;
+        text-transform:uppercase;
+        
+        animation:toptext-slide-in 2s ease-out;
+    }
+    #base{
+        fill: $orange;
+        mask: url(#mask);
+
+        animation:toptext-slide-in .5s ease-out;
+    }
+}
+
+    //  Sections
+
+section {
+    >h2   {
+        margin:0px;
+        padding:.25em 4px;
+        background:$blue;
+
+        font-family:$titleFont;
+        font-weight:normal;
+        letter-spacing: 2px;
+        font-size:3em;
+        color:white;
+    }
+}
+
+.skill-blocks   {
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+
+    li  {
+        padding:.5em;
+        border-radius: 1em;
+
+        font-family:$titleFont;
+        font-size:2em;
+        letter-spacing: 2px;
+        color:white;
+
+        img {
+            vertical-align: text-bottom;
+        }
+
+        span {
+            margin-left:.25em;
+        }
+    }
+}
