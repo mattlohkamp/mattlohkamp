@@ -95,11 +95,33 @@ section {
         padding:.25em 140px;
         background:$blue;
 
-        font-family:$titleFont;
+        font-family:$titleFont; 
         font-weight:normal;
         letter-spacing: 2px;
         font-size:3em;
         color:white;
+    }
+}
+
+#resume-link    {
+    display:block;
+    position:absolute;
+    right:140px;
+    margin-top:20px;
+    font-size:1.5em;
+    font-weight:bold;
+    line-height:50px;
+
+    text-indent:50px;
+    text-align:right;
+    color:white;
+    text-decoration:inherit;
+    
+    background:url('../img/document-download.svg') no-repeat left;
+    background-size:42px;
+
+    &::after{
+        content:" \000bb";
     }
 }
 
@@ -134,5 +156,12 @@ section {
         span {
             margin-left:.25em;
         }
+    }
+}
+
+.work-samples   {
+    figure>video, figure>img    {
+        width:100%;
+        max-width:100%;
     }
 }

@@ -139,6 +139,26 @@ section > h2 {
   color: white;
 }
 
+#resume-link {
+  display: block;
+  position: absolute;
+  right: 140px;
+  margin-top: 20px;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 50px;
+  text-indent: 50px;
+  text-align: right;
+  color: white;
+  text-decoration: inherit;
+  background: url("../img/document-download.svg") no-repeat left;
+  background-size: 42px;
+}
+
+#resume-link::after {
+  content: " \000bb";
+}
+
 .skill-blocks {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -173,5 +193,10 @@ section > h2 {
 
 .skill-blocks li span {
   margin-left: .25em;
+}
+
+.work-samples figure > video, .work-samples figure > img {
+  width: 100%;
+  max-width: 100%;
 }
 /*# sourceMappingURL=styles.css.map */
