@@ -244,8 +244,8 @@ section > h2 {
   margin: .5em;
   padding: .5em;
   border-radius: 1em;
-  -ms-flex-preferred-size: 25%;
-      flex-basis: 25%;
+  -ms-flex-preferred-size: 20%;
+      flex-basis: 20%;
   font-family: "Fredoka One", sans-serif;
   font-size: 2em;
   letter-spacing: 2px;
