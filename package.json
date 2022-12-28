@@ -34,17 +34,38 @@
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
+		"build-wp": "webpack --mode=production --node-env=production",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"
+		"eject": "react-scripts eject",
+		"build:dev": "webpack --mode=development",
+		"build:prod": "webpack --mode=production --node-env=production",
+		"watch": "webpack --watch",
+		"serve": "webpack serve"
 	},
 	"dependencies": {
-		"react": "^18.2.0",
-		"react-app": "^1.1.2",
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
+		"react": "^18.2.0",
+		"react-app": "^1.1.2",
 		"react-dom": "^18.2.0",
 		"react-scripts": "5.0.1",
 		"web-vitals": "^2.1.4"
+	},
+	"devDependencies": {
+		"@webpack-cli/generators": "^3.0.1",
+		"css-loader": "^6.7.3",
+		"html-webpack-plugin": "^5.5.0",
+		"mini-css-extract-plugin": "^2.7.2",
+		"prettier": "^2.5.1",
+		"sass": "^1.56.2",
+		"sass-loader": "^13.2.0",
+		"style-loader": "^3.3.1",
+		"ts-loader": "^9.2.6",
+		"typescript": "^4.9.4",
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.1",
+		"webpack-dev-server": "^4.11.1",
+		"workbox-webpack-plugin": "^6.5.4"
 	}
 }
