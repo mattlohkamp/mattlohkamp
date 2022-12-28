@@ -1,5 +1,5 @@
 const path = require("path");
-import HtmlWebpackPlugin from "html-webpack-plugin";
+const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
 	entry: path.join(__dirname, "src", "index.js"),
@@ -17,6 +17,14 @@ module.exports = {
 						presets: ["@babel/preset-env", "@babel/preset-react"],
 					},
 				},
+			},
+			{
+				test: /\.(png|jp(e*)g|svg|gif)$/,
+				use: ["file-loader"],
+			},
+			{
+				test: /\.svg$/,
+				use: ["@svgr/webpack"],
 			},
 		],
 	},
