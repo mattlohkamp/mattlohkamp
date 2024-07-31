@@ -1,4 +1,2 @@
-import React from "react";
-import ReactDOM from "react-dom";
-
-ReactDOM.render(<h1>Hello World</h1>, document.getElementById("root"));
+import react from "../node_modules/react/index";
+console.log(react);
