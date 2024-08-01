@@ -1,0 +1,80 @@
+Matt Lohkamp
+Front End Software Engineer
+Portland, OR
+work@mattlohkamp.com
+(971) 344-2364
+
+https://www.linkedin.com/in/mattlohkamp/
+
+Hi, my name is Matt, I'm an accomplished professional with 15 years of work experience and a passion for  problem-solving - my guiding principle is to craft user interfaces that are accessible to all, stable, and maintainable for my fellow engineers.
+
+Languages: HTML, CSS, LESS, SCSS, Javascript, Typescript
+
+Libraries and Frameworks: Vue.js, AngularJS, Redux, GraphQL, Jest, jQuery, Node.js, Electron
+
+Experience:
+
+Front End Web Developer
+IQ Credit Union
+Vancouver, WA
+03/2023 - 06/2023
+ - Built a series of internal admin tools for front-line employees, providing tellers with streamlined access to member data, and ability to configure business logic, tasks which previously required individual attention from IS resources.
+ - Led requirements discovery and technical specification write-up, API design, and wireframing.
+ - Used Vue.js to build views using the Quasar.dev component library, with automated unit testing via Vitest, improving on the previous legacy ASP.NET system.
+
+Front End Web Developer
+Castle Rock Associates
+Portland, OR
+11/2018 - 10/2022
+ - Led front end development on the creation of IRIS-x, open source software successor to the legacy IRIS system used by multiple state departments. This Advanced Traffic Management Software (ATMS) allows Department of Transportation to control traffic cameras, digital signage, and coordinate incident response efforts statewide.
+ - Implemented intuitive, modern, accessible responsive design, using the Polymer framework and Lit Web Components to create a Progressive Web App (PWA) to ensure compatibility and accessibility, following Agile methodology over the course of a three year project.
+ - Led Castle Rock's junior developer program, gathered applicants and connected with local educational institutions, mentored new hires, participated extensively in interviews and review processes, with an aim to ultimately give new faces in the web development industry a leg up in their first job.
+
+Software Engineer
+R/West
+Portland, OR
+10/2013 - 10/2018
+ - Led development on the fastest growing sales tool in Intel retail history, the Retail Experience Toolkit.
+ - Delivered quarterly updates and content refreshes based off extensive usage analytics, totaling 5.4 M customer engagements that represented a 54% increase(!) over the course of 2016 alone.
+ - Shepherded our product through it's initial stages as a Flash interactive prototype, to an Adobe Air mobile and desktop app, to an Electron app running on Node.js and utilizing jQuery, AngularJS, Backbone, and D3.
+
+Full Stack Web Developer
+IDL Worldwide
+Portland, OR
+02/2013 - 06/2013
+ - Developed GlobalShop 2013 web app for attendees to customize their own graphical avatars using a 'paper doll' interface, to be saved and shared as a means of interactive engagement with the event, featured on promotional displays around the event.
+ - Created rotating gallery grid view showing off IDL achievements and case studies using jQuery and Masonry, populated by a customized Wordpress.
+
+Front End Web Developer
+Urban Airship
+Portland, OR
+08/2012 - 02/2013
+ - Acted as a technical liaison to Owen Jones agency during the relaunch of UrbanAirship.com, utilizing CoffeeScript, jQuery, and Expression Engine.
+ - Developed email blasts utilizing Survey Monkey templates.
+
+Software Engineer
+Via Training
+Portland, OR
+12/2011 - 04/2012
+ - Developed interactive employee training tools for Cisco and Sony.
+ - Contributed to extensive library of common UI components built in Flash.
+
+Software Engineer
+Ascentium
+Portland, OR
+12/2009 - 04/2010
+ - Created interactive data visualization tools to introduce new Cisco offerings, including the Prep The Net campaign.
+ - Reskinned and updated functionality of client websites and media presentation software.
+ - Developed a series of desktop RSS feed reader widgets for Cisco using Adobe Air, allowing the client to keep users up to date on latest articles and announcements.
+
+Software Engineer
+CMD Agency
+Portland, OR
+10/2006 - 05/2008
+ - Developed a series of interactive media pieces for Jeld-Wen, showcasing products and solutions for customers both online and at industry conference events
+ - Contributed extensively to the Intel Retail Employee Program, a rewards program that encouraged sales personnel to better learn the benefits of the products they sold to customers
+ - Developed an employee directory feature for the intranet, populated by Active Directory.
+
+more information on companies I've worked with and projects I've worked on: https://www.linkedin.com/in/mattlohkamp/details/experience/
+
+(references gladly provided upon request.)
