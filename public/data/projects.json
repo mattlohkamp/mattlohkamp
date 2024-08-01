@@ -1,0 +1,16 @@
+[
+	{
+		"projectName": "Intel Retail Experience Tool (The RXT)",
+		"startDate": "2016",
+		"client": "R/West",
+		"technologies": ["AngularJS", "Node.js", "Electron"],
+		"description": "The Intel RXT is a sales tool used internationally by big tech retailers (like Best Buy) to help retail staff sell customers on products that utilize Intel technology. It's a standalone desktop app with no installation necessary, collects extensive usage logs to help direct future feature content production, and allows users to individually customize the various demos and interactive features to better tailor the experience to the region."
+	},
+	{
+		"projectName": "IRIS-x",
+		"startDate": "2019",
+		"client": "Castle Rock Associates",
+		"technologies": ["Typescript", "Lit", "Redux", "Leaflet"],
+		"description": "IRIS-x is an open source ATMS web app that allows Department of Transportation employees access to the myriad of sensors and systems connected to modern roadways - CCTV cameras, DMS signage (including sign queues and scheduled messaging), incident reporting, emergency and maintenance resource dispatching and tracking, employee assignments, and an extensive visual changelog feature to aid in auditing."
+	}
+]

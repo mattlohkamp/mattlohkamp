@@ -1,0 +1,286 @@
+[
+	{
+		"position": "Front-End Software Engineer",
+		"company": "iQ Credit Union",
+		"employmentType": "Full-time",
+		"startDate": "Mar 2023",
+		"endDate": "Jul 2023",
+		"duration": "5 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": true
+		},
+		"responsibilities": [
+			"Participated extensively in requirements discovery and technical specification write-up, API design, and the creation of wire frames to lay out new features.",
+			"Built a series of internal admin tools for front-line employees, providing tellers with streamlined access to member data, and the ability to configure business logic - tasks which previously required individual attention from database admins.",
+			"Used VueJS with Quasar.dev components to build pages, with automated unit testing via Vitest, aiming to improve on the previous legacy ASP.NET systems."
+		],
+		"skills": [
+			"CSS",
+			"JavaScript",
+			"Vitest",
+			"HTML",
+			"Vue.js",
+			"Object-Oriented Programming (OOP)",
+			"Symitar",
+			"Front-End Development",
+			"Vite",
+			"Quasar Framework",
+			"Front-end Coding"
+		]
+	},
+	{
+		"position": "Front-End Software Engineer",
+		"company": "Castle Rock Associates, Inc.",
+		"employmentType": "Full-time",
+		"startDate": "2018-11-01",
+		"endDate": "2022-10-31",
+		"duration": "4 yrs",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Lead front-end development for the creation of IRIS-x, an open-source front-end to the IRIS system used by multiple state departments to perform a wide range of tasks involving traffic and public roadways.",
+			"Following an Agile methodology, implemented an intuitive, modern, accessible and responsive design, using the Polymer framework and data pulled from a REST API, to develop a progressive web app.",
+			"Developed software for Department of Transportation employees, allowing operators to control traffic cameras, digital signage, and coordinate incident response efforts statewide."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"Node.js",
+			"SASS",
+			"Responsive Web Design",
+			"Web Applications",
+			"HTML",
+			"Jest",
+			"Lit",
+			"Web Components",
+			"browser compatibility",
+			"Front-end Development",
+			"Object-Oriented Programming (OOP)",
+			"Webpack",
+			"TypeScript",
+			"Polymer",
+			"WebComponents",
+			"Web Analytics",
+			"GraphQL",
+			"Front-end Coding",
+			"Accessibility",
+			"Git"
+		]
+	},
+	{
+		"position": "Software Engineer",
+		"company": "R/West",
+		"employmentType": "Contract",
+		"startDate": "2013-09-01",
+		"endDate": "2018-09-30",
+		"duration": "5 yrs 1 mo",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Range of front-end and flash work, primarily on Intel projects.",
+			"Technologies utilized include: HTML5, CSS3 + Less, JavaScript, PHP, MySQL, Angular, Node.js, WordPress, Flash AS3, Electron, Adobe AIR.",
+			"Responsible for a degree of source control management through GitHub, technical documentation and spec writing, and coordination of multiple developer resources as part of a larger team of specialists."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"Node.js",
+			"LESS (Stylesheet Language)",
+			"AngularJS",
+			"SASS",
+			"Responsive Web Design",
+			"Web Applications",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Flash",
+			"Object-Oriented Programming (OOP)",
+			"jQuery",
+			"Web Analytics",
+			"Front-end Coding",
+			"Accessibility",
+			"Git"
+		]
+	},
+	{
+		"position": "Full Stack Developer",
+		"company": "IDL Worldwide",
+		"employmentType": "Contract",
+		"startDate": "2013-02-01",
+		"endDate": "2013-06-30",
+		"duration": "5 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Performed extensive front-end development using HTML, CSS, JavaScript, PHP, and MySQL.",
+			"Conducted heavy WordPress custom theme development."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"WordPress",
+			"Responsive Web Design",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Object-Oriented Programming (OOP)",
+			"PHP",
+			"MySQL",
+			"jQuery",
+			"Front-end Coding",
+			"Accessibility",
+			"Git"
+		]
+	},
+	{
+		"position": "Front-End Software Engineer",
+		"company": "Urban Airship",
+		"employmentType": "Contract",
+		"startDate": "2012-08-01",
+		"endDate": "2013-02-28",
+		"duration": "7 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Helped UA launch the new revision of their urbanairship.com website, running on Expression Engine."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"Responsive Web Design",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Object-Oriented Programming (OOP)",
+			"jQuery",
+			"Web Analytics",
+			"Front-end Coding",
+			"Accessibility",
+			"Git"
+		]
+	},
+	{
+		"position": "Software Engineer",
+		"company": "Via Training",
+		"employmentType": "Contract",
+		"startDate": "2011-12-01",
+		"endDate": "2012-04-30",
+		"duration": "5 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Developed flash training tools and retail employee training/rewards sites, primarily for Cisco and Sony clients."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"Responsive Web Design",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Flash",
+			"Object-Oriented Programming (OOP)",
+			"jQuery",
+			"Front-end Coding",
+			"Accessibility",
+			"Git"
+		]
+	},
+	{
+		"position": "Software Engineer",
+		"company": "Ascentium",
+		"employmentType": "Full-time",
+		"startDate": "2009-12-01",
+		"endDate": "2010-04-30",
+		"duration": "5 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Developed flash data visualization and syndicated content display tools, website reskinning and functionality development, media presentation interfaces, primarily for Cisco clients."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"Responsive Web Design",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Flash",
+			"Object-Oriented Programming (OOP)",
+			"PHP",
+			"jQuery",
+			"Web Analytics",
+			"Front-end Coding",
+			"Accessibility"
+		]
+	},
+	{
+		"position": "Software Engineer",
+		"company": "CMD Agency",
+		"employmentType": "Full-time",
+		"startDate": "2006-09-01",
+		"endDate": "2008-05-31",
+		"duration": "1 yr 9 mos",
+		"location": {
+			"city": "Portland",
+			"state": "Oregon",
+			"country": "United States",
+			"remote": false
+		},
+		"responsibilities": [
+			"Split time evenly between front-end web development (XHTML, CSS, and JavaScript) and flash development (for website interfaces and presentation tools).",
+			"Created content for the CMD Wiki, serving as a repository of knowledge for employees and clients, as a member of the interactive and developers groups within the company."
+		],
+		"skills": [
+			"Front-end",
+			"CSS",
+			"JavaScript",
+			"WordPress",
+			"Responsive Web Design",
+			"HTML",
+			"browser compatibility",
+			"Front-end Development",
+			"Flash",
+			"Object-Oriented Programming (OOP)",
+			"PHP",
+			"MySQL",
+			"jQuery",
+			"Web Analytics",
+			"Front-end Coding",
+			"Accessibility"
+		]
+	}
+]
