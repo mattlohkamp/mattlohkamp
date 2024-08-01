@@ -1,12 +1,11 @@
 {
 	"name": "mattlohkamp",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"dev": "webpack serve --mode=development",
+		"start": "webpack serve --mode=development",
 		"build": "webpack --mode=production"
 	},
 	"repository": {
@@ -20,8 +19,12 @@
 	},
 	"homepage": "https://github.com/mattlohkamp/mattlohkamp#readme",
 	"dependencies": {
+		"@types/react": "^18.3.3",
+		"@types/react-dom": "^18.3.0",
+		"css-loader": "^7.1.2",
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
+		"react-dom": "^18.2.0",
+		"style-loader": "^4.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.7",
