@@ -1,2 +1,10 @@
-import react from "../node_modules/react/index";
-console.log(react);
+import React, { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import Root from "./components/Root.js";
+const root = createRoot(document.getElementById("root"));
+root.render(
+	<StrictMode>
+		<Root />
+	</StrictMode>
+);
