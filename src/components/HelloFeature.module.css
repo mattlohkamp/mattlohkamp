@@ -30,7 +30,7 @@ body {
 	padding: 20px;
 }
 
-.name {
+.nametag-name {
 	font-family: "Borel", cursive;
 	font-weight: 400;
 	font-style: normal;
@@ -38,13 +38,12 @@ body {
 	color: #ff6600; /* Orange text color */
 	display: inline-block;
 	white-space: nowrap;
-}
-
-.name span {
-	display: inline-block;
-	opacity: 0;
-	transform: translateX(20px); /* Initial position off-screen to the right */
-	animation: slideInRight 1s forwards;
+	span {
+		display: inline-block;
+		opacity: 0;
+		transform: translateX(20px); /* Initial position off-screen to the right */
+		animation: slideInRight 1s forwards;
+	}
 }
 
 @keyframes slideInRight {
