@@ -8,4 +8,6 @@
 4. [] contact page - form->email
 5. [] fun page - side projects, open source repos on github and maybe npm packages to publish
 
-- https://blog.theashishmaurya.me/how-to-minimize-react-bundle-size-for-faster-loading-times
+- [] externalize strings to json
+- [] GET strings to keep them separate from bundle, allow switching out jsons for l8n
+- [] https://blog.theashishmaurya.me/how-to-minimize-react-bundle-size-for-faster-loading-times
